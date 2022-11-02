@@ -1,0 +1,14 @@
+I'm getting tired of this shit. So I'll make the following step difficult for you. Feel free to fix it in a more intuitive way.
+
+Now you have to choose which number will be assigned to each stat. As you may know, the stats are:
+
+Strength
+Dexterity
+Constitution
+Wisdom
+Intelligence
+Charisma
+
+And you are seeing your stats in an array style. So set this parameters by index. 
+
+For example, if you want to set the stats in order, type 012345. If you want the order D W Ch I S Co, then type 405132

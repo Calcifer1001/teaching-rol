@@ -1,0 +1,13 @@
+Welcome to this role playing. We're going to create a story using typescript. This will be played on the terminal/command line, so you can feel like a hacker.
+
+In this story, you will create your own D&D character. Since this is a learning project, this character will only have a few features, but feel free to add some more.
+
+For playing this, you'll be requested to type stuff to make choices. Different actions should give different results.
+
+Also, there will be dice, so you may be able to do something epic or to lose miserably.
+
+This will also have a save feature, so you can start from wherever you want.
+
+If at any moment you want to quit, type q and hit enter.
+
+If you understand and agree, please, type m and hit enter.

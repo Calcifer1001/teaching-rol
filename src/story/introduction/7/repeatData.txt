@@ -1,0 +1,17 @@
+So you say you are Pitocorto and you are 410 years old?
+
+Oh, sorry, my bad. This was your subconscious talking.
+
+So your adventurer's name is _name_ and you are _age_ years old. 
+
+Let's get your stats now. We are going to use the Edu System for this. If you are familiar with it, then good for you. I'm pretty sure you mommy says you are pretty.
+
+If you don't know it yet, don't worry. This only means your mommy doesn't like you at all, but you'll be alright. Right?
+
+Anyways, you'll have to choose between the following options:
+
+1) _roll1_
+
+2) _roll2_
+
+3) _roll3_
